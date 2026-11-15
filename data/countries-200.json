@@ -1,0 +1,2006 @@
+{
+    "version":  "1.0",
+    "totalCountries":  200,
+    "countries":  {
+                      "SY":  {
+                                 "code":  "SY",
+                                 "nameAr":  "سوريا",
+                                 "capitalAr":  "دمشق",
+                                 "currency":  "ليرة سورية",
+                                 "photo":  "images/landmarks/sy.webp",
+                                 "ambientAudio":  "audio/ambient/sy.mp3",
+                                 "voiceAudio":  "audio/voices/sy.mp3",
+                                 "carSprite":  "sprites/cars/sy.png"
+                             },
+                      "PS":  {
+                                 "code":  "PS",
+                                 "nameAr":  "فلسطين",
+                                 "capitalAr":  "القدس",
+                                 "currency":  "جنيه فلسطيني / دينار",
+                                 "photo":  "images/landmarks/ps.webp",
+                                 "ambientAudio":  "audio/ambient/ps.mp3",
+                                 "voiceAudio":  "audio/voices/ps.mp3",
+                                 "carSprite":  "sprites/cars/ps.png"
+                             },
+                      "LB":  {
+                                 "code":  "LB",
+                                 "nameAr":  "لبنان",
+                                 "capitalAr":  "بيروت",
+                                 "currency":  "ليرة لبنانية",
+                                 "photo":  "images/landmarks/lb.webp",
+                                 "ambientAudio":  "audio/ambient/lb.mp3",
+                                 "voiceAudio":  "audio/voices/lb.mp3",
+                                 "carSprite":  "sprites/cars/lb.png"
+                             },
+                      "JO":  {
+                                 "code":  "JO",
+                                 "nameAr":  "الأردن",
+                                 "capitalAr":  "عمّان",
+                                 "currency":  "دينار أردني",
+                                 "photo":  "images/landmarks/jo.webp",
+                                 "ambientAudio":  "audio/ambient/jo.mp3",
+                                 "voiceAudio":  "audio/voices/jo.mp3",
+                                 "carSprite":  "sprites/cars/jo.png"
+                             },
+                      "IQ":  {
+                                 "code":  "IQ",
+                                 "nameAr":  "العراق",
+                                 "capitalAr":  "بغداد",
+                                 "currency":  "دينار عراقي",
+                                 "photo":  "images/landmarks/iq.webp",
+                                 "ambientAudio":  "audio/ambient/iq.mp3",
+                                 "voiceAudio":  "audio/voices/iq.mp3",
+                                 "carSprite":  "sprites/cars/iq.png"
+                             },
+                      "EG":  {
+                                 "code":  "EG",
+                                 "nameAr":  "مصر",
+                                 "capitalAr":  "القاهرة",
+                                 "currency":  "جنيه مصري",
+                                 "photo":  "images/landmarks/eg.webp",
+                                 "ambientAudio":  "audio/ambient/eg.mp3",
+                                 "voiceAudio":  "audio/voices/eg.mp3",
+                                 "carSprite":  "sprites/cars/eg.png"
+                             },
+                      "SA":  {
+                                 "code":  "SA",
+                                 "nameAr":  "السعودية",
+                                 "capitalAr":  "الرياض",
+                                 "currency":  "ريال سعودي",
+                                 "photo":  "images/landmarks/sa.webp",
+                                 "ambientAudio":  "audio/ambient/sa.mp3",
+                                 "voiceAudio":  "audio/voices/sa.mp3",
+                                 "carSprite":  "sprites/cars/sa.png"
+                             },
+                      "AE":  {
+                                 "code":  "AE",
+                                 "nameAr":  "الإمارات",
+                                 "capitalAr":  "أبوظبي",
+                                 "currency":  "درهم إماراتي",
+                                 "photo":  "images/landmarks/ae.webp",
+                                 "ambientAudio":  "audio/ambient/ae.mp3",
+                                 "voiceAudio":  "audio/voices/ae.mp3",
+                                 "carSprite":  "sprites/cars/ae.png"
+                             },
+                      "KW":  {
+                                 "code":  "KW",
+                                 "nameAr":  "الكويت",
+                                 "capitalAr":  "الكويت",
+                                 "currency":  "دينار كويتي",
+                                 "photo":  "images/landmarks/kw.webp",
+                                 "ambientAudio":  "audio/ambient/kw.mp3",
+                                 "voiceAudio":  "audio/voices/kw.mp3",
+                                 "carSprite":  "sprites/cars/kw.png"
+                             },
+                      "QA":  {
+                                 "code":  "QA",
+                                 "nameAr":  "قطر",
+                                 "capitalAr":  "الدوحة",
+                                 "currency":  "ريال قطري",
+                                 "photo":  "images/landmarks/qa.webp",
+                                 "ambientAudio":  "audio/ambient/qa.mp3",
+                                 "voiceAudio":  "audio/voices/qa.mp3",
+                                 "carSprite":  "sprites/cars/qa.png"
+                             },
+                      "BH":  {
+                                 "code":  "BH",
+                                 "nameAr":  "البحرين",
+                                 "capitalAr":  "المنامة",
+                                 "currency":  "دينار بحريني",
+                                 "photo":  "images/landmarks/bh.webp",
+                                 "ambientAudio":  "audio/ambient/bh.mp3",
+                                 "voiceAudio":  "audio/voices/bh.mp3",
+                                 "carSprite":  "sprites/cars/bh.png"
+                             },
+                      "OM":  {
+                                 "code":  "OM",
+                                 "nameAr":  "عُمان",
+                                 "capitalAr":  "مسقط",
+                                 "currency":  "ريال عماني",
+                                 "photo":  "images/landmarks/om.webp",
+                                 "ambientAudio":  "audio/ambient/om.mp3",
+                                 "voiceAudio":  "audio/voices/om.mp3",
+                                 "carSprite":  "sprites/cars/om.png"
+                             },
+                      "YE":  {
+                                 "code":  "YE",
+                                 "nameAr":  "اليمن",
+                                 "capitalAr":  "صنعاء",
+                                 "currency":  "ريال يمني",
+                                 "photo":  "images/landmarks/ye.webp",
+                                 "ambientAudio":  "audio/ambient/ye.mp3",
+                                 "voiceAudio":  "audio/voices/ye.mp3",
+                                 "carSprite":  "sprites/cars/ye.png"
+                             },
+                      "SD":  {
+                                 "code":  "SD",
+                                 "nameAr":  "السودان",
+                                 "capitalAr":  "الخرطوم",
+                                 "currency":  "جنيه سوداني",
+                                 "photo":  "images/landmarks/sd.webp",
+                                 "ambientAudio":  "audio/ambient/sd.mp3",
+                                 "voiceAudio":  "audio/voices/sd.mp3",
+                                 "carSprite":  "sprites/cars/sd.png"
+                             },
+                      "LY":  {
+                                 "code":  "LY",
+                                 "nameAr":  "ليبيا",
+                                 "capitalAr":  "طرابلس",
+                                 "currency":  "دينار ليبي",
+                                 "photo":  "images/landmarks/ly.webp",
+                                 "ambientAudio":  "audio/ambient/ly.mp3",
+                                 "voiceAudio":  "audio/voices/ly.mp3",
+                                 "carSprite":  "sprites/cars/ly.png"
+                             },
+                      "TN":  {
+                                 "code":  "TN",
+                                 "nameAr":  "تونس",
+                                 "capitalAr":  "تونس",
+                                 "currency":  "دينار تونسي",
+                                 "photo":  "images/landmarks/tn.webp",
+                                 "ambientAudio":  "audio/ambient/tn.mp3",
+                                 "voiceAudio":  "audio/voices/tn.mp3",
+                                 "carSprite":  "sprites/cars/tn.png"
+                             },
+                      "DZ":  {
+                                 "code":  "DZ",
+                                 "nameAr":  "الجزائر",
+                                 "capitalAr":  "الجزائر",
+                                 "currency":  "دينار جزائري",
+                                 "photo":  "images/landmarks/dz.webp",
+                                 "ambientAudio":  "audio/ambient/dz.mp3",
+                                 "voiceAudio":  "audio/voices/dz.mp3",
+                                 "carSprite":  "sprites/cars/dz.png"
+                             },
+                      "MA":  {
+                                 "code":  "MA",
+                                 "nameAr":  "المغرب",
+                                 "capitalAr":  "الرباط",
+                                 "currency":  "درهم مغربي",
+                                 "photo":  "images/landmarks/ma.webp",
+                                 "ambientAudio":  "audio/ambient/ma.mp3",
+                                 "voiceAudio":  "audio/voices/ma.mp3",
+                                 "carSprite":  "sprites/cars/ma.png"
+                             },
+                      "MR":  {
+                                 "code":  "MR",
+                                 "nameAr":  "موريتانيا",
+                                 "capitalAr":  "نواكشوط",
+                                 "currency":  "أوقية موريتانية",
+                                 "photo":  "images/landmarks/mr.webp",
+                                 "ambientAudio":  "audio/ambient/mr.mp3",
+                                 "voiceAudio":  "audio/voices/mr.mp3",
+                                 "carSprite":  "sprites/cars/mr.png"
+                             },
+                      "SO":  {
+                                 "code":  "SO",
+                                 "nameAr":  "الصومال",
+                                 "capitalAr":  "مقديشو",
+                                 "currency":  "شلن صومالي",
+                                 "photo":  "images/landmarks/so.webp",
+                                 "ambientAudio":  "audio/ambient/so.mp3",
+                                 "voiceAudio":  "audio/voices/so.mp3",
+                                 "carSprite":  "sprites/cars/so.png"
+                             },
+                      "DJ":  {
+                                 "code":  "DJ",
+                                 "nameAr":  "جيبوتي",
+                                 "capitalAr":  "جيبوتي",
+                                 "currency":  "فرنك جيبوتي",
+                                 "photo":  "images/landmarks/dj.webp",
+                                 "ambientAudio":  "audio/ambient/dj.mp3",
+                                 "voiceAudio":  "audio/voices/dj.mp3",
+                                 "carSprite":  "sprites/cars/dj.png"
+                             },
+                      "KM":  {
+                                 "code":  "KM",
+                                 "nameAr":  "جزر القمر",
+                                 "capitalAr":  "موروني",
+                                 "currency":  "فرنك قمري",
+                                 "photo":  "images/landmarks/km.webp",
+                                 "ambientAudio":  "audio/ambient/km.mp3",
+                                 "voiceAudio":  "audio/voices/km.mp3",
+                                 "carSprite":  "sprites/cars/km.png"
+                             },
+                      "TR":  {
+                                 "code":  "TR",
+                                 "nameAr":  "تركيا",
+                                 "capitalAr":  "أنقرة",
+                                 "currency":  "ليرة تركية",
+                                 "photo":  "images/landmarks/tr.webp",
+                                 "ambientAudio":  "audio/ambient/tr.mp3",
+                                 "voiceAudio":  "audio/voices/tr.mp3",
+                                 "carSprite":  "sprites/cars/tr.png"
+                             },
+                      "IR":  {
+                                 "code":  "IR",
+                                 "nameAr":  "إيران",
+                                 "capitalAr":  "طهران",
+                                 "currency":  "ريال إيراني",
+                                 "photo":  "images/landmarks/ir.webp",
+                                 "ambientAudio":  "audio/ambient/ir.mp3",
+                                 "voiceAudio":  "audio/voices/ir.mp3",
+                                 "carSprite":  "sprites/cars/ir.png"
+                             },
+                      "AF":  {
+                                 "code":  "AF",
+                                 "nameAr":  "أفغانستان",
+                                 "capitalAr":  "كابل",
+                                 "currency":  "أفغاني",
+                                 "photo":  "images/landmarks/af.webp",
+                                 "ambientAudio":  "audio/ambient/af.mp3",
+                                 "voiceAudio":  "audio/voices/af.mp3",
+                                 "carSprite":  "sprites/cars/af.png"
+                             },
+                      "PK":  {
+                                 "code":  "PK",
+                                 "nameAr":  "باكستان",
+                                 "capitalAr":  "إسلام آباد",
+                                 "currency":  "روبية باكستانية",
+                                 "photo":  "images/landmarks/pk.webp",
+                                 "ambientAudio":  "audio/ambient/pk.mp3",
+                                 "voiceAudio":  "audio/voices/pk.mp3",
+                                 "carSprite":  "sprites/cars/pk.png"
+                             },
+                      "IN":  {
+                                 "code":  "IN",
+                                 "nameAr":  "الهند",
+                                 "capitalAr":  "نيودلهي",
+                                 "currency":  "روبية هندية",
+                                 "photo":  "images/landmarks/in.webp",
+                                 "ambientAudio":  "audio/ambient/in.mp3",
+                                 "voiceAudio":  "audio/voices/in.mp3",
+                                 "carSprite":  "sprites/cars/in.png"
+                             },
+                      "BD":  {
+                                 "code":  "BD",
+                                 "nameAr":  "بنغلاديش",
+                                 "capitalAr":  "دكا",
+                                 "currency":  "تاكا",
+                                 "photo":  "images/landmarks/bd.webp",
+                                 "ambientAudio":  "audio/ambient/bd.mp3",
+                                 "voiceAudio":  "audio/voices/bd.mp3",
+                                 "carSprite":  "sprites/cars/bd.png"
+                             },
+                      "LK":  {
+                                 "code":  "LK",
+                                 "nameAr":  "سريلانكا",
+                                 "capitalAr":  "كولومبو",
+                                 "currency":  "روبية سريلانكية",
+                                 "photo":  "images/landmarks/lk.webp",
+                                 "ambientAudio":  "audio/ambient/lk.mp3",
+                                 "voiceAudio":  "audio/voices/lk.mp3",
+                                 "carSprite":  "sprites/cars/lk.png"
+                             },
+                      "NP":  {
+                                 "code":  "NP",
+                                 "nameAr":  "نيبال",
+                                 "capitalAr":  "كاتماندو",
+                                 "currency":  "روبية نيبالية",
+                                 "photo":  "images/landmarks/np.webp",
+                                 "ambientAudio":  "audio/ambient/np.mp3",
+                                 "voiceAudio":  "audio/voices/np.mp3",
+                                 "carSprite":  "sprites/cars/np.png"
+                             },
+                      "BT":  {
+                                 "code":  "BT",
+                                 "nameAr":  "بوتان",
+                                 "capitalAr":  "تيمفو",
+                                 "currency":  "نغولتروم",
+                                 "photo":  "images/landmarks/bt.webp",
+                                 "ambientAudio":  "audio/ambient/bt.mp3",
+                                 "voiceAudio":  "audio/voices/bt.mp3",
+                                 "carSprite":  "sprites/cars/bt.png"
+                             },
+                      "MV":  {
+                                 "code":  "MV",
+                                 "nameAr":  "المالديف",
+                                 "capitalAr":  "ماليه",
+                                 "currency":  "روفية",
+                                 "photo":  "images/landmarks/mv.webp",
+                                 "ambientAudio":  "audio/ambient/mv.mp3",
+                                 "voiceAudio":  "audio/voices/mv.mp3",
+                                 "carSprite":  "sprites/cars/mv.png"
+                             },
+                      "CN":  {
+                                 "code":  "CN",
+                                 "nameAr":  "الصين",
+                                 "capitalAr":  "بكين",
+                                 "currency":  "يوان صيني",
+                                 "photo":  "images/landmarks/cn.webp",
+                                 "ambientAudio":  "audio/ambient/cn.mp3",
+                                 "voiceAudio":  "audio/voices/cn.mp3",
+                                 "carSprite":  "sprites/cars/cn.png"
+                             },
+                      "JP":  {
+                                 "code":  "JP",
+                                 "nameAr":  "اليابان",
+                                 "capitalAr":  "طوكيو",
+                                 "currency":  "ين ياباني",
+                                 "photo":  "images/landmarks/jp.webp",
+                                 "ambientAudio":  "audio/ambient/jp.mp3",
+                                 "voiceAudio":  "audio/voices/jp.mp3",
+                                 "carSprite":  "sprites/cars/jp.png"
+                             },
+                      "KR":  {
+                                 "code":  "KR",
+                                 "nameAr":  "كوريا الجنوبية",
+                                 "capitalAr":  "سيول",
+                                 "currency":  "وون كوري",
+                                 "photo":  "images/landmarks/kr.webp",
+                                 "ambientAudio":  "audio/ambient/kr.mp3",
+                                 "voiceAudio":  "audio/voices/kr.mp3",
+                                 "carSprite":  "sprites/cars/kr.png"
+                             },
+                      "KP":  {
+                                 "code":  "KP",
+                                 "nameAr":  "كوريا الشمالية",
+                                 "capitalAr":  "بيونغ يانغ",
+                                 "currency":  "وون",
+                                 "photo":  "images/landmarks/kp.webp",
+                                 "ambientAudio":  "audio/ambient/kp.mp3",
+                                 "voiceAudio":  "audio/voices/kp.mp3",
+                                 "carSprite":  "sprites/cars/kp.png"
+                             },
+                      "MN":  {
+                                 "code":  "MN",
+                                 "nameAr":  "منغوليا",
+                                 "capitalAr":  "أولان باتور",
+                                 "currency":  "توغريك",
+                                 "photo":  "images/landmarks/mn.webp",
+                                 "ambientAudio":  "audio/ambient/mn.mp3",
+                                 "voiceAudio":  "audio/voices/mn.mp3",
+                                 "carSprite":  "sprites/cars/mn.png"
+                             },
+                      "TW":  {
+                                 "code":  "TW",
+                                 "nameAr":  "تايوان",
+                                 "capitalAr":  "تايبيه",
+                                 "currency":  "دولار تايواني",
+                                 "photo":  "images/landmarks/tw.webp",
+                                 "ambientAudio":  "audio/ambient/tw.mp3",
+                                 "voiceAudio":  "audio/voices/tw.mp3",
+                                 "carSprite":  "sprites/cars/tw.png"
+                             },
+                      "HK":  {
+                                 "code":  "HK",
+                                 "nameAr":  "هونغ كونغ",
+                                 "capitalAr":  "هونغ كونغ",
+                                 "currency":  "دولار هونغ كونغ",
+                                 "photo":  "images/landmarks/hk.webp",
+                                 "ambientAudio":  "audio/ambient/hk.mp3",
+                                 "voiceAudio":  "audio/voices/hk.mp3",
+                                 "carSprite":  "sprites/cars/hk.png"
+                             },
+                      "MO":  {
+                                 "code":  "MO",
+                                 "nameAr":  "ماكاو",
+                                 "capitalAr":  "ماكاو",
+                                 "currency":  "باتاكا",
+                                 "photo":  "images/landmarks/mo.webp",
+                                 "ambientAudio":  "audio/ambient/mo.mp3",
+                                 "voiceAudio":  "audio/voices/mo.mp3",
+                                 "carSprite":  "sprites/cars/mo.png"
+                             },
+                      "TH":  {
+                                 "code":  "TH",
+                                 "nameAr":  "تايلاند",
+                                 "capitalAr":  "بانكوك",
+                                 "currency":  "بات تايلاندي",
+                                 "photo":  "images/landmarks/th.webp",
+                                 "ambientAudio":  "audio/ambient/th.mp3",
+                                 "voiceAudio":  "audio/voices/th.mp3",
+                                 "carSprite":  "sprites/cars/th.png"
+                             },
+                      "VN":  {
+                                 "code":  "VN",
+                                 "nameAr":  "فيتنام",
+                                 "capitalAr":  "هانوي",
+                                 "currency":  "دونغ فيتنامي",
+                                 "photo":  "images/landmarks/vn.webp",
+                                 "ambientAudio":  "audio/ambient/vn.mp3",
+                                 "voiceAudio":  "audio/voices/vn.mp3",
+                                 "carSprite":  "sprites/cars/vn.png"
+                             },
+                      "MY":  {
+                                 "code":  "MY",
+                                 "nameAr":  "ماليزيا",
+                                 "capitalAr":  "كوالالمبور",
+                                 "currency":  "رينغيت ماليزي",
+                                 "photo":  "images/landmarks/my.webp",
+                                 "ambientAudio":  "audio/ambient/my.mp3",
+                                 "voiceAudio":  "audio/voices/my.mp3",
+                                 "carSprite":  "sprites/cars/my.png"
+                             },
+                      "SG":  {
+                                 "code":  "SG",
+                                 "nameAr":  "سنغافورة",
+                                 "capitalAr":  "سنغافورة",
+                                 "currency":  "دولار سنغافوري",
+                                 "photo":  "images/landmarks/sg.webp",
+                                 "ambientAudio":  "audio/ambient/sg.mp3",
+                                 "voiceAudio":  "audio/voices/sg.mp3",
+                                 "carSprite":  "sprites/cars/sg.png"
+                             },
+                      "ID":  {
+                                 "code":  "ID",
+                                 "nameAr":  "إندونيسيا",
+                                 "capitalAr":  "جاكرتا",
+                                 "currency":  "روبية إندونيسية",
+                                 "photo":  "images/landmarks/id.webp",
+                                 "ambientAudio":  "audio/ambient/id.mp3",
+                                 "voiceAudio":  "audio/voices/id.mp3",
+                                 "carSprite":  "sprites/cars/id.png"
+                             },
+                      "PH":  {
+                                 "code":  "PH",
+                                 "nameAr":  "الفلبين",
+                                 "capitalAr":  "مانيلا",
+                                 "currency":  "بيزو فلبيني",
+                                 "photo":  "images/landmarks/ph.webp",
+                                 "ambientAudio":  "audio/ambient/ph.mp3",
+                                 "voiceAudio":  "audio/voices/ph.mp3",
+                                 "carSprite":  "sprites/cars/ph.png"
+                             },
+                      "MM":  {
+                                 "code":  "MM",
+                                 "nameAr":  "ميانمار",
+                                 "capitalAr":  "نايبيداو",
+                                 "currency":  "كيات",
+                                 "photo":  "images/landmarks/mm.webp",
+                                 "ambientAudio":  "audio/ambient/mm.mp3",
+                                 "voiceAudio":  "audio/voices/mm.mp3",
+                                 "carSprite":  "sprites/cars/mm.png"
+                             },
+                      "KH":  {
+                                 "code":  "KH",
+                                 "nameAr":  "كمبوديا",
+                                 "capitalAr":  "بنوم بنه",
+                                 "currency":  "ريال كمبودي",
+                                 "photo":  "images/landmarks/kh.webp",
+                                 "ambientAudio":  "audio/ambient/kh.mp3",
+                                 "voiceAudio":  "audio/voices/kh.mp3",
+                                 "carSprite":  "sprites/cars/kh.png"
+                             },
+                      "LA":  {
+                                 "code":  "LA",
+                                 "nameAr":  "لاوس",
+                                 "capitalAr":  "فيينتيان",
+                                 "currency":  "كيب",
+                                 "photo":  "images/landmarks/la.webp",
+                                 "ambientAudio":  "audio/ambient/la.mp3",
+                                 "voiceAudio":  "audio/voices/la.mp3",
+                                 "carSprite":  "sprites/cars/la.png"
+                             },
+                      "BN":  {
+                                 "code":  "BN",
+                                 "nameAr":  "بروناي",
+                                 "capitalAr":  "بندر سري بكاوان",
+                                 "currency":  "دولار بروناي",
+                                 "photo":  "images/landmarks/bn.webp",
+                                 "ambientAudio":  "audio/ambient/bn.mp3",
+                                 "voiceAudio":  "audio/voices/bn.mp3",
+                                 "carSprite":  "sprites/cars/bn.png"
+                             },
+                      "TL":  {
+                                 "code":  "TL",
+                                 "nameAr":  "تيمور الشرقية",
+                                 "capitalAr":  "ديلي",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/tl.webp",
+                                 "ambientAudio":  "audio/ambient/tl.mp3",
+                                 "voiceAudio":  "audio/voices/tl.mp3",
+                                 "carSprite":  "sprites/cars/tl.png"
+                             },
+                      "KZ":  {
+                                 "code":  "KZ",
+                                 "nameAr":  "كازاخستان",
+                                 "capitalAr":  "أستانا",
+                                 "currency":  "تينغ",
+                                 "photo":  "images/landmarks/kz.webp",
+                                 "ambientAudio":  "audio/ambient/kz.mp3",
+                                 "voiceAudio":  "audio/voices/kz.mp3",
+                                 "carSprite":  "sprites/cars/kz.png"
+                             },
+                      "UZ":  {
+                                 "code":  "UZ",
+                                 "nameAr":  "أوزبكستان",
+                                 "capitalAr":  "طشقند",
+                                 "currency":  "سوم أوزبكي",
+                                 "photo":  "images/landmarks/uz.webp",
+                                 "ambientAudio":  "audio/ambient/uz.mp3",
+                                 "voiceAudio":  "audio/voices/uz.mp3",
+                                 "carSprite":  "sprites/cars/uz.png"
+                             },
+                      "TM":  {
+                                 "code":  "TM",
+                                 "nameAr":  "تركمانستان",
+                                 "capitalAr":  "عشق آباد",
+                                 "currency":  "مانات",
+                                 "photo":  "images/landmarks/tm.webp",
+                                 "ambientAudio":  "audio/ambient/tm.mp3",
+                                 "voiceAudio":  "audio/voices/tm.mp3",
+                                 "carSprite":  "sprites/cars/tm.png"
+                             },
+                      "KG":  {
+                                 "code":  "KG",
+                                 "nameAr":  "قيرغيزستان",
+                                 "capitalAr":  "بشكيك",
+                                 "currency":  "سوم",
+                                 "photo":  "images/landmarks/kg.webp",
+                                 "ambientAudio":  "audio/ambient/kg.mp3",
+                                 "voiceAudio":  "audio/voices/kg.mp3",
+                                 "carSprite":  "sprites/cars/kg.png"
+                             },
+                      "TJ":  {
+                                 "code":  "TJ",
+                                 "nameAr":  "طاجيكستان",
+                                 "capitalAr":  "دوشنبه",
+                                 "currency":  "سوموني",
+                                 "photo":  "images/landmarks/tj.webp",
+                                 "ambientAudio":  "audio/ambient/tj.mp3",
+                                 "voiceAudio":  "audio/voices/tj.mp3",
+                                 "carSprite":  "sprites/cars/tj.png"
+                             },
+                      "AZ":  {
+                                 "code":  "AZ",
+                                 "nameAr":  "أذربيجان",
+                                 "capitalAr":  "باكو",
+                                 "currency":  "مانات أذربيجاني",
+                                 "photo":  "images/landmarks/az.webp",
+                                 "ambientAudio":  "audio/ambient/az.mp3",
+                                 "voiceAudio":  "audio/voices/az.mp3",
+                                 "carSprite":  "sprites/cars/az.png"
+                             },
+                      "GE":  {
+                                 "code":  "GE",
+                                 "nameAr":  "جورجيا",
+                                 "capitalAr":  "تبليسي",
+                                 "currency":  "لاري جورجي",
+                                 "photo":  "images/landmarks/ge.webp",
+                                 "ambientAudio":  "audio/ambient/ge.mp3",
+                                 "voiceAudio":  "audio/voices/ge.mp3",
+                                 "carSprite":  "sprites/cars/ge.png"
+                             },
+                      "AM":  {
+                                 "code":  "AM",
+                                 "nameAr":  "أرمينيا",
+                                 "capitalAr":  "يريفان",
+                                 "currency":  "درام أرميني",
+                                 "photo":  "images/landmarks/am.webp",
+                                 "ambientAudio":  "audio/ambient/am.mp3",
+                                 "voiceAudio":  "audio/voices/am.mp3",
+                                 "carSprite":  "sprites/cars/am.png"
+                             },
+                      "CY":  {
+                                 "code":  "CY",
+                                 "nameAr":  "قبرص",
+                                 "capitalAr":  "نيقوسيا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/cy.webp",
+                                 "ambientAudio":  "audio/ambient/cy.mp3",
+                                 "voiceAudio":  "audio/voices/cy.mp3",
+                                 "carSprite":  "sprites/cars/cy.png"
+                             },
+                      "RU":  {
+                                 "code":  "RU",
+                                 "nameAr":  "روسيا",
+                                 "capitalAr":  "موسكو",
+                                 "currency":  "روبل روسي",
+                                 "photo":  "images/landmarks/ru.webp",
+                                 "ambientAudio":  "audio/ambient/ru.mp3",
+                                 "voiceAudio":  "audio/voices/ru.mp3",
+                                 "carSprite":  "sprites/cars/ru.png"
+                             },
+                      "UA":  {
+                                 "code":  "UA",
+                                 "nameAr":  "أوكرانيا",
+                                 "capitalAr":  "كييف",
+                                 "currency":  "هريفنيا",
+                                 "photo":  "images/landmarks/ua.webp",
+                                 "ambientAudio":  "audio/ambient/ua.mp3",
+                                 "voiceAudio":  "audio/voices/ua.mp3",
+                                 "carSprite":  "sprites/cars/ua.png"
+                             },
+                      "BY":  {
+                                 "code":  "BY",
+                                 "nameAr":  "بيلاروسيا",
+                                 "capitalAr":  "مينسك",
+                                 "currency":  "روبل بيلاروسي",
+                                 "photo":  "images/landmarks/by.webp",
+                                 "ambientAudio":  "audio/ambient/by.mp3",
+                                 "voiceAudio":  "audio/voices/by.mp3",
+                                 "carSprite":  "sprites/cars/by.png"
+                             },
+                      "MD":  {
+                                 "code":  "MD",
+                                 "nameAr":  "مولدوفا",
+                                 "capitalAr":  "كيشيناو",
+                                 "currency":  "ليو مولدوفي",
+                                 "photo":  "images/landmarks/md.webp",
+                                 "ambientAudio":  "audio/ambient/md.mp3",
+                                 "voiceAudio":  "audio/voices/md.mp3",
+                                 "carSprite":  "sprites/cars/md.png"
+                             },
+                      "PL":  {
+                                 "code":  "PL",
+                                 "nameAr":  "بولندا",
+                                 "capitalAr":  "وارسو",
+                                 "currency":  "زلوتي بولندي",
+                                 "photo":  "images/landmarks/pl.webp",
+                                 "ambientAudio":  "audio/ambient/pl.mp3",
+                                 "voiceAudio":  "audio/voices/pl.mp3",
+                                 "carSprite":  "sprites/cars/pl.png"
+                             },
+                      "DE":  {
+                                 "code":  "DE",
+                                 "nameAr":  "ألمانيا",
+                                 "capitalAr":  "برلين",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/de.webp",
+                                 "ambientAudio":  "audio/ambient/de.mp3",
+                                 "voiceAudio":  "audio/voices/de.mp3",
+                                 "carSprite":  "sprites/cars/de.png"
+                             },
+                      "FR":  {
+                                 "code":  "FR",
+                                 "nameAr":  "فرنسا",
+                                 "capitalAr":  "باريس",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/fr.webp",
+                                 "ambientAudio":  "audio/ambient/fr.mp3",
+                                 "voiceAudio":  "audio/voices/fr.mp3",
+                                 "carSprite":  "sprites/cars/fr.png"
+                             },
+                      "GB":  {
+                                 "code":  "GB",
+                                 "nameAr":  "بريطانيا",
+                                 "capitalAr":  "لندن",
+                                 "currency":  "جنيه إسترليني",
+                                 "photo":  "images/landmarks/gb.webp",
+                                 "ambientAudio":  "audio/ambient/gb.mp3",
+                                 "voiceAudio":  "audio/voices/gb.mp3",
+                                 "carSprite":  "sprites/cars/gb.png"
+                             },
+                      "IT":  {
+                                 "code":  "IT",
+                                 "nameAr":  "إيطاليا",
+                                 "capitalAr":  "روما",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/it.webp",
+                                 "ambientAudio":  "audio/ambient/it.mp3",
+                                 "voiceAudio":  "audio/voices/it.mp3",
+                                 "carSprite":  "sprites/cars/it.png"
+                             },
+                      "ES":  {
+                                 "code":  "ES",
+                                 "nameAr":  "إسبانيا",
+                                 "capitalAr":  "مدريد",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/es.webp",
+                                 "ambientAudio":  "audio/ambient/es.mp3",
+                                 "voiceAudio":  "audio/voices/es.mp3",
+                                 "carSprite":  "sprites/cars/es.png"
+                             },
+                      "PT":  {
+                                 "code":  "PT",
+                                 "nameAr":  "البرتغال",
+                                 "capitalAr":  "لشبونة",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/pt.webp",
+                                 "ambientAudio":  "audio/ambient/pt.mp3",
+                                 "voiceAudio":  "audio/voices/pt.mp3",
+                                 "carSprite":  "sprites/cars/pt.png"
+                             },
+                      "NL":  {
+                                 "code":  "NL",
+                                 "nameAr":  "هولندا",
+                                 "capitalAr":  "أمستردام",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/nl.webp",
+                                 "ambientAudio":  "audio/ambient/nl.mp3",
+                                 "voiceAudio":  "audio/voices/nl.mp3",
+                                 "carSprite":  "sprites/cars/nl.png"
+                             },
+                      "BE":  {
+                                 "code":  "BE",
+                                 "nameAr":  "بلجيكا",
+                                 "capitalAr":  "بروكسل",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/be.webp",
+                                 "ambientAudio":  "audio/ambient/be.mp3",
+                                 "voiceAudio":  "audio/voices/be.mp3",
+                                 "carSprite":  "sprites/cars/be.png"
+                             },
+                      "LU":  {
+                                 "code":  "LU",
+                                 "nameAr":  "لوكسمبورغ",
+                                 "capitalAr":  "لوكسمبورغ",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/lu.webp",
+                                 "ambientAudio":  "audio/ambient/lu.mp3",
+                                 "voiceAudio":  "audio/voices/lu.mp3",
+                                 "carSprite":  "sprites/cars/lu.png"
+                             },
+                      "CH":  {
+                                 "code":  "CH",
+                                 "nameAr":  "سويسرا",
+                                 "capitalAr":  "برن",
+                                 "currency":  "فرنك سويسري",
+                                 "photo":  "images/landmarks/ch.webp",
+                                 "ambientAudio":  "audio/ambient/ch.mp3",
+                                 "voiceAudio":  "audio/voices/ch.mp3",
+                                 "carSprite":  "sprites/cars/ch.png"
+                             },
+                      "AT":  {
+                                 "code":  "AT",
+                                 "nameAr":  "النمسا",
+                                 "capitalAr":  "فيينا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/at.webp",
+                                 "ambientAudio":  "audio/ambient/at.mp3",
+                                 "voiceAudio":  "audio/voices/at.mp3",
+                                 "carSprite":  "sprites/cars/at.png"
+                             },
+                      "CZ":  {
+                                 "code":  "CZ",
+                                 "nameAr":  "التشيك",
+                                 "capitalAr":  "براغ",
+                                 "currency":  "كرونة تشيكية",
+                                 "photo":  "images/landmarks/cz.webp",
+                                 "ambientAudio":  "audio/ambient/cz.mp3",
+                                 "voiceAudio":  "audio/voices/cz.mp3",
+                                 "carSprite":  "sprites/cars/cz.png"
+                             },
+                      "SK":  {
+                                 "code":  "SK",
+                                 "nameAr":  "سلوفاكيا",
+                                 "capitalAr":  "براتيسلافا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/sk.webp",
+                                 "ambientAudio":  "audio/ambient/sk.mp3",
+                                 "voiceAudio":  "audio/voices/sk.mp3",
+                                 "carSprite":  "sprites/cars/sk.png"
+                             },
+                      "HU":  {
+                                 "code":  "HU",
+                                 "nameAr":  "المجر",
+                                 "capitalAr":  "بودابست",
+                                 "currency":  "فورنت مجري",
+                                 "photo":  "images/landmarks/hu.webp",
+                                 "ambientAudio":  "audio/ambient/hu.mp3",
+                                 "voiceAudio":  "audio/voices/hu.mp3",
+                                 "carSprite":  "sprites/cars/hu.png"
+                             },
+                      "RO":  {
+                                 "code":  "RO",
+                                 "nameAr":  "رومانيا",
+                                 "capitalAr":  "بوخارست",
+                                 "currency":  "ليو روماني",
+                                 "photo":  "images/landmarks/ro.webp",
+                                 "ambientAudio":  "audio/ambient/ro.mp3",
+                                 "voiceAudio":  "audio/voices/ro.mp3",
+                                 "carSprite":  "sprites/cars/ro.png"
+                             },
+                      "BG":  {
+                                 "code":  "BG",
+                                 "nameAr":  "بلغاريا",
+                                 "capitalAr":  "صوفيا",
+                                 "currency":  "ليف بلغاري",
+                                 "photo":  "images/landmarks/bg.webp",
+                                 "ambientAudio":  "audio/ambient/bg.mp3",
+                                 "voiceAudio":  "audio/voices/bg.mp3",
+                                 "carSprite":  "sprites/cars/bg.png"
+                             },
+                      "GR":  {
+                                 "code":  "GR",
+                                 "nameAr":  "اليونان",
+                                 "capitalAr":  "أثينا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/gr.webp",
+                                 "ambientAudio":  "audio/ambient/gr.mp3",
+                                 "voiceAudio":  "audio/voices/gr.mp3",
+                                 "carSprite":  "sprites/cars/gr.png"
+                             },
+                      "AL":  {
+                                 "code":  "AL",
+                                 "nameAr":  "ألبانيا",
+                                 "capitalAr":  "تيرانا",
+                                 "currency":  "ليك ألباني",
+                                 "photo":  "images/landmarks/al.webp",
+                                 "ambientAudio":  "audio/ambient/al.mp3",
+                                 "voiceAudio":  "audio/voices/al.mp3",
+                                 "carSprite":  "sprites/cars/al.png"
+                             },
+                      "MK":  {
+                                 "code":  "MK",
+                                 "nameAr":  "مقدونيا الشمالية",
+                                 "capitalAr":  "إسكوبية",
+                                 "currency":  "دينار مقدوني",
+                                 "photo":  "images/landmarks/mk.webp",
+                                 "ambientAudio":  "audio/ambient/mk.mp3",
+                                 "voiceAudio":  "audio/voices/mk.mp3",
+                                 "carSprite":  "sprites/cars/mk.png"
+                             },
+                      "RS":  {
+                                 "code":  "RS",
+                                 "nameAr":  "صربيا",
+                                 "capitalAr":  "بلغراد",
+                                 "currency":  "دينار صربي",
+                                 "photo":  "images/landmarks/rs.webp",
+                                 "ambientAudio":  "audio/ambient/rs.mp3",
+                                 "voiceAudio":  "audio/voices/rs.mp3",
+                                 "carSprite":  "sprites/cars/rs.png"
+                             },
+                      "BA":  {
+                                 "code":  "BA",
+                                 "nameAr":  "البوسنة والهرسك",
+                                 "capitalAr":  "سراييفو",
+                                 "currency":  "مارك بوسني",
+                                 "photo":  "images/landmarks/ba.webp",
+                                 "ambientAudio":  "audio/ambient/ba.mp3",
+                                 "voiceAudio":  "audio/voices/ba.mp3",
+                                 "carSprite":  "sprites/cars/ba.png"
+                             },
+                      "HR":  {
+                                 "code":  "HR",
+                                 "nameAr":  "كرواتيا",
+                                 "capitalAr":  "زغرب",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/hr.webp",
+                                 "ambientAudio":  "audio/ambient/hr.mp3",
+                                 "voiceAudio":  "audio/voices/hr.mp3",
+                                 "carSprite":  "sprites/cars/hr.png"
+                             },
+                      "SI":  {
+                                 "code":  "SI",
+                                 "nameAr":  "سلوفينيا",
+                                 "capitalAr":  "ليوبليانا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/si.webp",
+                                 "ambientAudio":  "audio/ambient/si.mp3",
+                                 "voiceAudio":  "audio/voices/si.mp3",
+                                 "carSprite":  "sprites/cars/si.png"
+                             },
+                      "ME":  {
+                                 "code":  "ME",
+                                 "nameAr":  "الجبل الأسود",
+                                 "capitalAr":  "بودغوريتسا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/me.webp",
+                                 "ambientAudio":  "audio/ambient/me.mp3",
+                                 "voiceAudio":  "audio/voices/me.mp3",
+                                 "carSprite":  "sprites/cars/me.png"
+                             },
+                      "XK":  {
+                                 "code":  "XK",
+                                 "nameAr":  "كوسوفو",
+                                 "capitalAr":  "بريشتينا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/xk.webp",
+                                 "ambientAudio":  "audio/ambient/xk.mp3",
+                                 "voiceAudio":  "audio/voices/xk.mp3",
+                                 "carSprite":  "sprites/cars/xk.png"
+                             },
+                      "SE":  {
+                                 "code":  "SE",
+                                 "nameAr":  "السويد",
+                                 "capitalAr":  "ستوكهولم",
+                                 "currency":  "كرونة سويدية",
+                                 "photo":  "images/landmarks/se.webp",
+                                 "ambientAudio":  "audio/ambient/se.mp3",
+                                 "voiceAudio":  "audio/voices/se.mp3",
+                                 "carSprite":  "sprites/cars/se.png"
+                             },
+                      "NO":  {
+                                 "code":  "NO",
+                                 "nameAr":  "النرويج",
+                                 "capitalAr":  "أوسلو",
+                                 "currency":  "كرونة نرويجية",
+                                 "photo":  "images/landmarks/no.webp",
+                                 "ambientAudio":  "audio/ambient/no.mp3",
+                                 "voiceAudio":  "audio/voices/no.mp3",
+                                 "carSprite":  "sprites/cars/no.png"
+                             },
+                      "FI":  {
+                                 "code":  "FI",
+                                 "nameAr":  "فنلندا",
+                                 "capitalAr":  "هلسنكي",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/fi.webp",
+                                 "ambientAudio":  "audio/ambient/fi.mp3",
+                                 "voiceAudio":  "audio/voices/fi.mp3",
+                                 "carSprite":  "sprites/cars/fi.png"
+                             },
+                      "DK":  {
+                                 "code":  "DK",
+                                 "nameAr":  "الدنمارك",
+                                 "capitalAr":  "كوبنهاغن",
+                                 "currency":  "كرونة دنماركية",
+                                 "photo":  "images/landmarks/dk.webp",
+                                 "ambientAudio":  "audio/ambient/dk.mp3",
+                                 "voiceAudio":  "audio/voices/dk.mp3",
+                                 "carSprite":  "sprites/cars/dk.png"
+                             },
+                      "IS":  {
+                                 "code":  "IS",
+                                 "nameAr":  "آيسلندا",
+                                 "capitalAr":  "ريكيافيك",
+                                 "currency":  "كرونة آيسلندية",
+                                 "photo":  "images/landmarks/is.webp",
+                                 "ambientAudio":  "audio/ambient/is.mp3",
+                                 "voiceAudio":  "audio/voices/is.mp3",
+                                 "carSprite":  "sprites/cars/is.png"
+                             },
+                      "IE":  {
+                                 "code":  "IE",
+                                 "nameAr":  "أيرلندا",
+                                 "capitalAr":  "دبلن",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/ie.webp",
+                                 "ambientAudio":  "audio/ambient/ie.mp3",
+                                 "voiceAudio":  "audio/voices/ie.mp3",
+                                 "carSprite":  "sprites/cars/ie.png"
+                             },
+                      "EE":  {
+                                 "code":  "EE",
+                                 "nameAr":  "إستونيا",
+                                 "capitalAr":  "تالين",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/ee.webp",
+                                 "ambientAudio":  "audio/ambient/ee.mp3",
+                                 "voiceAudio":  "audio/voices/ee.mp3",
+                                 "carSprite":  "sprites/cars/ee.png"
+                             },
+                      "LV":  {
+                                 "code":  "LV",
+                                 "nameAr":  "لاتفيا",
+                                 "capitalAr":  "ريغا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/lv.webp",
+                                 "ambientAudio":  "audio/ambient/lv.mp3",
+                                 "voiceAudio":  "audio/voices/lv.mp3",
+                                 "carSprite":  "sprites/cars/lv.png"
+                             },
+                      "LT":  {
+                                 "code":  "LT",
+                                 "nameAr":  "ليتوانيا",
+                                 "capitalAr":  "فيلنيوس",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/lt.webp",
+                                 "ambientAudio":  "audio/ambient/lt.mp3",
+                                 "voiceAudio":  "audio/voices/lt.mp3",
+                                 "carSprite":  "sprites/cars/lt.png"
+                             },
+                      "MT":  {
+                                 "code":  "MT",
+                                 "nameAr":  "مالطا",
+                                 "capitalAr":  "فاليتا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/mt.webp",
+                                 "ambientAudio":  "audio/ambient/mt.mp3",
+                                 "voiceAudio":  "audio/voices/mt.mp3",
+                                 "carSprite":  "sprites/cars/mt.png"
+                             },
+                      "AD":  {
+                                 "code":  "AD",
+                                 "nameAr":  "أندورا",
+                                 "capitalAr":  "أندورا لا فيلا",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/ad.webp",
+                                 "ambientAudio":  "audio/ambient/ad.mp3",
+                                 "voiceAudio":  "audio/voices/ad.mp3",
+                                 "carSprite":  "sprites/cars/ad.png"
+                             },
+                      "MC":  {
+                                 "code":  "MC",
+                                 "nameAr":  "موناكو",
+                                 "capitalAr":  "موناكو",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/mc.webp",
+                                 "ambientAudio":  "audio/ambient/mc.mp3",
+                                 "voiceAudio":  "audio/voices/mc.mp3",
+                                 "carSprite":  "sprites/cars/mc.png"
+                             },
+                      "SM":  {
+                                 "code":  "SM",
+                                 "nameAr":  "سان مارينو",
+                                 "capitalAr":  "سان مارينو",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/sm.webp",
+                                 "ambientAudio":  "audio/ambient/sm.mp3",
+                                 "voiceAudio":  "audio/voices/sm.mp3",
+                                 "carSprite":  "sprites/cars/sm.png"
+                             },
+                      "VA":  {
+                                 "code":  "VA",
+                                 "nameAr":  "الفاتيكان",
+                                 "capitalAr":  "الفاتيكان",
+                                 "currency":  "يورو",
+                                 "photo":  "images/landmarks/va.webp",
+                                 "ambientAudio":  "audio/ambient/va.mp3",
+                                 "voiceAudio":  "audio/voices/va.mp3",
+                                 "carSprite":  "sprites/cars/va.png"
+                             },
+                      "LI":  {
+                                 "code":  "LI",
+                                 "nameAr":  "ليختنشتاين",
+                                 "capitalAr":  "فادوتس",
+                                 "currency":  "فرنك سويسري",
+                                 "photo":  "images/landmarks/li.webp",
+                                 "ambientAudio":  "audio/ambient/li.mp3",
+                                 "voiceAudio":  "audio/voices/li.mp3",
+                                 "carSprite":  "sprites/cars/li.png"
+                             },
+                      "FO":  {
+                                 "code":  "FO",
+                                 "nameAr":  "جزر فارو",
+                                 "capitalAr":  "توشهافن",
+                                 "currency":  "كرونة دنماركية",
+                                 "photo":  "images/landmarks/fo.webp",
+                                 "ambientAudio":  "audio/ambient/fo.mp3",
+                                 "voiceAudio":  "audio/voices/fo.mp3",
+                                 "carSprite":  "sprites/cars/fo.png"
+                             },
+                      "GL":  {
+                                 "code":  "GL",
+                                 "nameAr":  "غرينلاند",
+                                 "capitalAr":  "نوك",
+                                 "currency":  "كرونة دنماركية",
+                                 "photo":  "images/landmarks/gl.webp",
+                                 "ambientAudio":  "audio/ambient/gl.mp3",
+                                 "voiceAudio":  "audio/voices/gl.mp3",
+                                 "carSprite":  "sprites/cars/gl.png"
+                             },
+                      "ET":  {
+                                 "code":  "ET",
+                                 "nameAr":  "إثيوبيا",
+                                 "capitalAr":  "أديس أبابا",
+                                 "currency":  "بير إثيوبي",
+                                 "photo":  "images/landmarks/et.webp",
+                                 "ambientAudio":  "audio/ambient/et.mp3",
+                                 "voiceAudio":  "audio/voices/et.mp3",
+                                 "carSprite":  "sprites/cars/et.png"
+                             },
+                      "ER":  {
+                                 "code":  "ER",
+                                 "nameAr":  "إريتريا",
+                                 "capitalAr":  "أسمرة",
+                                 "currency":  "ناكفا",
+                                 "photo":  "images/landmarks/er.webp",
+                                 "ambientAudio":  "audio/ambient/er.mp3",
+                                 "voiceAudio":  "audio/voices/er.mp3",
+                                 "carSprite":  "sprites/cars/er.png"
+                             },
+                      "KE":  {
+                                 "code":  "KE",
+                                 "nameAr":  "كينيا",
+                                 "capitalAr":  "نيروبي",
+                                 "currency":  "شلن كيني",
+                                 "photo":  "images/landmarks/ke.webp",
+                                 "ambientAudio":  "audio/ambient/ke.mp3",
+                                 "voiceAudio":  "audio/voices/ke.mp3",
+                                 "carSprite":  "sprites/cars/ke.png"
+                             },
+                      "TZ":  {
+                                 "code":  "TZ",
+                                 "nameAr":  "تنزانيا",
+                                 "capitalAr":  "دودوما",
+                                 "currency":  "شلن تنزاني",
+                                 "photo":  "images/landmarks/tz.webp",
+                                 "ambientAudio":  "audio/ambient/tz.mp3",
+                                 "voiceAudio":  "audio/voices/tz.mp3",
+                                 "carSprite":  "sprites/cars/tz.png"
+                             },
+                      "UG":  {
+                                 "code":  "UG",
+                                 "nameAr":  "أوغندا",
+                                 "capitalAr":  "كمبالا",
+                                 "currency":  "شلن أوغندي",
+                                 "photo":  "images/landmarks/ug.webp",
+                                 "ambientAudio":  "audio/ambient/ug.mp3",
+                                 "voiceAudio":  "audio/voices/ug.mp3",
+                                 "carSprite":  "sprites/cars/ug.png"
+                             },
+                      "RW":  {
+                                 "code":  "RW",
+                                 "nameAr":  "رواندا",
+                                 "capitalAr":  "كيغالي",
+                                 "currency":  "فرنك رواندي",
+                                 "photo":  "images/landmarks/rw.webp",
+                                 "ambientAudio":  "audio/ambient/rw.mp3",
+                                 "voiceAudio":  "audio/voices/rw.mp3",
+                                 "carSprite":  "sprites/cars/rw.png"
+                             },
+                      "BI":  {
+                                 "code":  "BI",
+                                 "nameAr":  "بوروندي",
+                                 "capitalAr":  "غيتيغا",
+                                 "currency":  "فرنك بوروندي",
+                                 "photo":  "images/landmarks/bi.webp",
+                                 "ambientAudio":  "audio/ambient/bi.mp3",
+                                 "voiceAudio":  "audio/voices/bi.mp3",
+                                 "carSprite":  "sprites/cars/bi.png"
+                             },
+                      "SS":  {
+                                 "code":  "SS",
+                                 "nameAr":  "جنوب السودان",
+                                 "capitalAr":  "جوبا",
+                                 "currency":  "جنيه جنوب سوداني",
+                                 "photo":  "images/landmarks/ss.webp",
+                                 "ambientAudio":  "audio/ambient/ss.mp3",
+                                 "voiceAudio":  "audio/voices/ss.mp3",
+                                 "carSprite":  "sprites/cars/ss.png"
+                             },
+                      "NG":  {
+                                 "code":  "NG",
+                                 "nameAr":  "نيجيريا",
+                                 "capitalAr":  "أبوجا",
+                                 "currency":  "نيرة نيجيرية",
+                                 "photo":  "images/landmarks/ng.webp",
+                                 "ambientAudio":  "audio/ambient/ng.mp3",
+                                 "voiceAudio":  "audio/voices/ng.mp3",
+                                 "carSprite":  "sprites/cars/ng.png"
+                             },
+                      "GH":  {
+                                 "code":  "GH",
+                                 "nameAr":  "غانا",
+                                 "capitalAr":  "أكرا",
+                                 "currency":  "سيدي غاني",
+                                 "photo":  "images/landmarks/gh.webp",
+                                 "ambientAudio":  "audio/ambient/gh.mp3",
+                                 "voiceAudio":  "audio/voices/gh.mp3",
+                                 "carSprite":  "sprites/cars/gh.png"
+                             },
+                      "CI":  {
+                                 "code":  "CI",
+                                 "nameAr":  "ساحل العاج",
+                                 "capitalAr":  "ياموسوكرو",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/ci.webp",
+                                 "ambientAudio":  "audio/ambient/ci.mp3",
+                                 "voiceAudio":  "audio/voices/ci.mp3",
+                                 "carSprite":  "sprites/cars/ci.png"
+                             },
+                      "SN":  {
+                                 "code":  "SN",
+                                 "nameAr":  "السنغال",
+                                 "capitalAr":  "داكار",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/sn.webp",
+                                 "ambientAudio":  "audio/ambient/sn.mp3",
+                                 "voiceAudio":  "audio/voices/sn.mp3",
+                                 "carSprite":  "sprites/cars/sn.png"
+                             },
+                      "ML":  {
+                                 "code":  "ML",
+                                 "nameAr":  "مالي",
+                                 "capitalAr":  "باماكو",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/ml.webp",
+                                 "ambientAudio":  "audio/ambient/ml.mp3",
+                                 "voiceAudio":  "audio/voices/ml.mp3",
+                                 "carSprite":  "sprites/cars/ml.png"
+                             },
+                      "NE":  {
+                                 "code":  "NE",
+                                 "nameAr":  "النيجر",
+                                 "capitalAr":  "نيامي",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/ne.webp",
+                                 "ambientAudio":  "audio/ambient/ne.mp3",
+                                 "voiceAudio":  "audio/voices/ne.mp3",
+                                 "carSprite":  "sprites/cars/ne.png"
+                             },
+                      "BF":  {
+                                 "code":  "BF",
+                                 "nameAr":  "بوركينا فاسو",
+                                 "capitalAr":  "واغادوغو",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/bf.webp",
+                                 "ambientAudio":  "audio/ambient/bf.mp3",
+                                 "voiceAudio":  "audio/voices/bf.mp3",
+                                 "carSprite":  "sprites/cars/bf.png"
+                             },
+                      "GN":  {
+                                 "code":  "GN",
+                                 "nameAr":  "غينيا",
+                                 "capitalAr":  "كوناكري",
+                                 "currency":  "فرنك غيني",
+                                 "photo":  "images/landmarks/gn.webp",
+                                 "ambientAudio":  "audio/ambient/gn.mp3",
+                                 "voiceAudio":  "audio/voices/gn.mp3",
+                                 "carSprite":  "sprites/cars/gn.png"
+                             },
+                      "GW":  {
+                                 "code":  "GW",
+                                 "nameAr":  "غينيا بيساو",
+                                 "capitalAr":  "بيساو",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/gw.webp",
+                                 "ambientAudio":  "audio/ambient/gw.mp3",
+                                 "voiceAudio":  "audio/voices/gw.mp3",
+                                 "carSprite":  "sprites/cars/gw.png"
+                             },
+                      "SL":  {
+                                 "code":  "SL",
+                                 "nameAr":  "سيراليون",
+                                 "capitalAr":  "فريتاون",
+                                 "currency":  "ليون",
+                                 "photo":  "images/landmarks/sl.webp",
+                                 "ambientAudio":  "audio/ambient/sl.mp3",
+                                 "voiceAudio":  "audio/voices/sl.mp3",
+                                 "carSprite":  "sprites/cars/sl.png"
+                             },
+                      "LR":  {
+                                 "code":  "LR",
+                                 "nameAr":  "ليبيريا",
+                                 "capitalAr":  "مونروفيا",
+                                 "currency":  "دولار ليبيري",
+                                 "photo":  "images/landmarks/lr.webp",
+                                 "ambientAudio":  "audio/ambient/lr.mp3",
+                                 "voiceAudio":  "audio/voices/lr.mp3",
+                                 "carSprite":  "sprites/cars/lr.png"
+                             },
+                      "TG":  {
+                                 "code":  "TG",
+                                 "nameAr":  "توغو",
+                                 "capitalAr":  "لومي",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/tg.webp",
+                                 "ambientAudio":  "audio/ambient/tg.mp3",
+                                 "voiceAudio":  "audio/voices/tg.mp3",
+                                 "carSprite":  "sprites/cars/tg.png"
+                             },
+                      "BJ":  {
+                                 "code":  "BJ",
+                                 "nameAr":  "بنين",
+                                 "capitalAr":  "بورتو نوفو",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/bj.webp",
+                                 "ambientAudio":  "audio/ambient/bj.mp3",
+                                 "voiceAudio":  "audio/voices/bj.mp3",
+                                 "carSprite":  "sprites/cars/bj.png"
+                             },
+                      "GM":  {
+                                 "code":  "GM",
+                                 "nameAr":  "غامبيا",
+                                 "capitalAr":  "بانجول",
+                                 "currency":  "دالاسي",
+                                 "photo":  "images/landmarks/gm.webp",
+                                 "ambientAudio":  "audio/ambient/gm.mp3",
+                                 "voiceAudio":  "audio/voices/gm.mp3",
+                                 "carSprite":  "sprites/cars/gm.png"
+                             },
+                      "CV":  {
+                                 "code":  "CV",
+                                 "nameAr":  "الرأس الأخضر",
+                                 "capitalAr":  "برايا",
+                                 "currency":  "إيسكودو",
+                                 "photo":  "images/landmarks/cv.webp",
+                                 "ambientAudio":  "audio/ambient/cv.mp3",
+                                 "voiceAudio":  "audio/voices/cv.mp3",
+                                 "carSprite":  "sprites/cars/cv.png"
+                             },
+                      "CM":  {
+                                 "code":  "CM",
+                                 "nameAr":  "الكاميرون",
+                                 "capitalAr":  "ياوندي",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/cm.webp",
+                                 "ambientAudio":  "audio/ambient/cm.mp3",
+                                 "voiceAudio":  "audio/voices/cm.mp3",
+                                 "carSprite":  "sprites/cars/cm.png"
+                             },
+                      "TD":  {
+                                 "code":  "TD",
+                                 "nameAr":  "تشاد",
+                                 "capitalAr":  "انجمينا",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/td.webp",
+                                 "ambientAudio":  "audio/ambient/td.mp3",
+                                 "voiceAudio":  "audio/voices/td.mp3",
+                                 "carSprite":  "sprites/cars/td.png"
+                             },
+                      "CF":  {
+                                 "code":  "CF",
+                                 "nameAr":  "إفريقيا الوسطى",
+                                 "capitalAr":  "بانغي",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/cf.webp",
+                                 "ambientAudio":  "audio/ambient/cf.mp3",
+                                 "voiceAudio":  "audio/voices/cf.mp3",
+                                 "carSprite":  "sprites/cars/cf.png"
+                             },
+                      "GA":  {
+                                 "code":  "GA",
+                                 "nameAr":  "الغابون",
+                                 "capitalAr":  "ليبرفيل",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/ga.webp",
+                                 "ambientAudio":  "audio/ambient/ga.mp3",
+                                 "voiceAudio":  "audio/voices/ga.mp3",
+                                 "carSprite":  "sprites/cars/ga.png"
+                             },
+                      "CG":  {
+                                 "code":  "CG",
+                                 "nameAr":  "الكونغو",
+                                 "capitalAr":  "برازافيل",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/cg.webp",
+                                 "ambientAudio":  "audio/ambient/cg.mp3",
+                                 "voiceAudio":  "audio/voices/cg.mp3",
+                                 "carSprite":  "sprites/cars/cg.png"
+                             },
+                      "CD":  {
+                                 "code":  "CD",
+                                 "nameAr":  "الكونغو الديمقراطية",
+                                 "capitalAr":  "كينشاسا",
+                                 "currency":  "فرنك كونغولي",
+                                 "photo":  "images/landmarks/cd.webp",
+                                 "ambientAudio":  "audio/ambient/cd.mp3",
+                                 "voiceAudio":  "audio/voices/cd.mp3",
+                                 "carSprite":  "sprites/cars/cd.png"
+                             },
+                      "GQ":  {
+                                 "code":  "GQ",
+                                 "nameAr":  "غينيا الاستوائية",
+                                 "capitalAr":  "مالابو",
+                                 "currency":  "فرنك إفريقي",
+                                 "photo":  "images/landmarks/gq.webp",
+                                 "ambientAudio":  "audio/ambient/gq.mp3",
+                                 "voiceAudio":  "audio/voices/gq.mp3",
+                                 "carSprite":  "sprites/cars/gq.png"
+                             },
+                      "ST":  {
+                                 "code":  "ST",
+                                 "nameAr":  "ساو تومي وبرينسيب",
+                                 "capitalAr":  "ساو تومي",
+                                 "currency":  "دوبرا",
+                                 "photo":  "images/landmarks/st.webp",
+                                 "ambientAudio":  "audio/ambient/st.mp3",
+                                 "voiceAudio":  "audio/voices/st.mp3",
+                                 "carSprite":  "sprites/cars/st.png"
+                             },
+                      "AO":  {
+                                 "code":  "AO",
+                                 "nameAr":  "أنغولا",
+                                 "capitalAr":  "لواندا",
+                                 "currency":  "كوانزا",
+                                 "photo":  "images/landmarks/ao.webp",
+                                 "ambientAudio":  "audio/ambient/ao.mp3",
+                                 "voiceAudio":  "audio/voices/ao.mp3",
+                                 "carSprite":  "sprites/cars/ao.png"
+                             },
+                      "ZM":  {
+                                 "code":  "ZM",
+                                 "nameAr":  "زامبيا",
+                                 "capitalAr":  "لوساكا",
+                                 "currency":  "كواشا",
+                                 "photo":  "images/landmarks/zm.webp",
+                                 "ambientAudio":  "audio/ambient/zm.mp3",
+                                 "voiceAudio":  "audio/voices/zm.mp3",
+                                 "carSprite":  "sprites/cars/zm.png"
+                             },
+                      "ZW":  {
+                                 "code":  "ZW",
+                                 "nameAr":  "زيمبابوي",
+                                 "capitalAr":  "هراري",
+                                 "currency":  "دولار زيمبابوي",
+                                 "photo":  "images/landmarks/zw.webp",
+                                 "ambientAudio":  "audio/ambient/zw.mp3",
+                                 "voiceAudio":  "audio/voices/zw.mp3",
+                                 "carSprite":  "sprites/cars/zw.png"
+                             },
+                      "MW":  {
+                                 "code":  "MW",
+                                 "nameAr":  "مالاوي",
+                                 "capitalAr":  "ليلونغوي",
+                                 "currency":  "كواشا",
+                                 "photo":  "images/landmarks/mw.webp",
+                                 "ambientAudio":  "audio/ambient/mw.mp3",
+                                 "voiceAudio":  "audio/voices/mw.mp3",
+                                 "carSprite":  "sprites/cars/mw.png"
+                             },
+                      "MZ":  {
+                                 "code":  "MZ",
+                                 "nameAr":  "موزمبيق",
+                                 "capitalAr":  "مابوتو",
+                                 "currency":  "ميتيكال",
+                                 "photo":  "images/landmarks/mz.webp",
+                                 "ambientAudio":  "audio/ambient/mz.mp3",
+                                 "voiceAudio":  "audio/voices/mz.mp3",
+                                 "carSprite":  "sprites/cars/mz.png"
+                             },
+                      "NA":  {
+                                 "code":  "NA",
+                                 "nameAr":  "ناميبيا",
+                                 "capitalAr":  "ويندهوك",
+                                 "currency":  "دولار ناميبي",
+                                 "photo":  "images/landmarks/na.webp",
+                                 "ambientAudio":  "audio/ambient/na.mp3",
+                                 "voiceAudio":  "audio/voices/na.mp3",
+                                 "carSprite":  "sprites/cars/na.png"
+                             },
+                      "BW":  {
+                                 "code":  "BW",
+                                 "nameAr":  "بوتسوانا",
+                                 "capitalAr":  "غابورون",
+                                 "currency":  "بولا",
+                                 "photo":  "images/landmarks/bw.webp",
+                                 "ambientAudio":  "audio/ambient/bw.mp3",
+                                 "voiceAudio":  "audio/voices/bw.mp3",
+                                 "carSprite":  "sprites/cars/bw.png"
+                             },
+                      "ZA":  {
+                                 "code":  "ZA",
+                                 "nameAr":  "جنوب إفريقيا",
+                                 "capitalAr":  "بريتوريا",
+                                 "currency":  "راند جنوب إفريقي",
+                                 "photo":  "images/landmarks/za.webp",
+                                 "ambientAudio":  "audio/ambient/za.mp3",
+                                 "voiceAudio":  "audio/voices/za.mp3",
+                                 "carSprite":  "sprites/cars/za.png"
+                             },
+                      "LS":  {
+                                 "code":  "LS",
+                                 "nameAr":  "ليسوتو",
+                                 "capitalAr":  "ماسيرو",
+                                 "currency":  "لوتي",
+                                 "photo":  "images/landmarks/ls.webp",
+                                 "ambientAudio":  "audio/ambient/ls.mp3",
+                                 "voiceAudio":  "audio/voices/ls.mp3",
+                                 "carSprite":  "sprites/cars/ls.png"
+                             },
+                      "SZ":  {
+                                 "code":  "SZ",
+                                 "nameAr":  "إسواتيني",
+                                 "capitalAr":  "مبابان",
+                                 "currency":  "ليلانغيني",
+                                 "photo":  "images/landmarks/sz.webp",
+                                 "ambientAudio":  "audio/ambient/sz.mp3",
+                                 "voiceAudio":  "audio/voices/sz.mp3",
+                                 "carSprite":  "sprites/cars/sz.png"
+                             },
+                      "MG":  {
+                                 "code":  "MG",
+                                 "nameAr":  "مدغشقر",
+                                 "capitalAr":  "أنتاناناريفو",
+                                 "currency":  "أرياري",
+                                 "photo":  "images/landmarks/mg.webp",
+                                 "ambientAudio":  "audio/ambient/mg.mp3",
+                                 "voiceAudio":  "audio/voices/mg.mp3",
+                                 "carSprite":  "sprites/cars/mg.png"
+                             },
+                      "MU":  {
+                                 "code":  "MU",
+                                 "nameAr":  "موريشيوس",
+                                 "capitalAr":  "بورت لويس",
+                                 "currency":  "روبية موريشية",
+                                 "photo":  "images/landmarks/mu.webp",
+                                 "ambientAudio":  "audio/ambient/mu.mp3",
+                                 "voiceAudio":  "audio/voices/mu.mp3",
+                                 "carSprite":  "sprites/cars/mu.png"
+                             },
+                      "SC":  {
+                                 "code":  "SC",
+                                 "nameAr":  "سيشل",
+                                 "capitalAr":  "فيكتوريا",
+                                 "currency":  "روبية سيشلية",
+                                 "photo":  "images/landmarks/sc.webp",
+                                 "ambientAudio":  "audio/ambient/sc.mp3",
+                                 "voiceAudio":  "audio/voices/sc.mp3",
+                                 "carSprite":  "sprites/cars/sc.png"
+                             },
+                      "US":  {
+                                 "code":  "US",
+                                 "nameAr":  "الولايات المتحدة",
+                                 "capitalAr":  "واشنطن",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/us.webp",
+                                 "ambientAudio":  "audio/ambient/us.mp3",
+                                 "voiceAudio":  "audio/voices/us.mp3",
+                                 "carSprite":  "sprites/cars/us.png"
+                             },
+                      "CA":  {
+                                 "code":  "CA",
+                                 "nameAr":  "كندا",
+                                 "capitalAr":  "أوتاوا",
+                                 "currency":  "دولار كندي",
+                                 "photo":  "images/landmarks/ca.webp",
+                                 "ambientAudio":  "audio/ambient/ca.mp3",
+                                 "voiceAudio":  "audio/voices/ca.mp3",
+                                 "carSprite":  "sprites/cars/ca.png"
+                             },
+                      "MX":  {
+                                 "code":  "MX",
+                                 "nameAr":  "المكسيك",
+                                 "capitalAr":  "مكسيكو سيتي",
+                                 "currency":  "بيزو مكسيكي",
+                                 "photo":  "images/landmarks/mx.webp",
+                                 "ambientAudio":  "audio/ambient/mx.mp3",
+                                 "voiceAudio":  "audio/voices/mx.mp3",
+                                 "carSprite":  "sprites/cars/mx.png"
+                             },
+                      "GT":  {
+                                 "code":  "GT",
+                                 "nameAr":  "غواتيمالا",
+                                 "capitalAr":  "غواتيمالا",
+                                 "currency":  "كتزال",
+                                 "photo":  "images/landmarks/gt.webp",
+                                 "ambientAudio":  "audio/ambient/gt.mp3",
+                                 "voiceAudio":  "audio/voices/gt.mp3",
+                                 "carSprite":  "sprites/cars/gt.png"
+                             },
+                      "BZ":  {
+                                 "code":  "BZ",
+                                 "nameAr":  "بليز",
+                                 "capitalAr":  "بلموبان",
+                                 "currency":  "دولار بليزي",
+                                 "photo":  "images/landmarks/bz.webp",
+                                 "ambientAudio":  "audio/ambient/bz.mp3",
+                                 "voiceAudio":  "audio/voices/bz.mp3",
+                                 "carSprite":  "sprites/cars/bz.png"
+                             },
+                      "SV":  {
+                                 "code":  "SV",
+                                 "nameAr":  "السلفادور",
+                                 "capitalAr":  "سان سلفادور",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/sv.webp",
+                                 "ambientAudio":  "audio/ambient/sv.mp3",
+                                 "voiceAudio":  "audio/voices/sv.mp3",
+                                 "carSprite":  "sprites/cars/sv.png"
+                             },
+                      "HN":  {
+                                 "code":  "HN",
+                                 "nameAr":  "هندوراس",
+                                 "capitalAr":  "تيغوسيغالبا",
+                                 "currency":  "لمبيرا",
+                                 "photo":  "images/landmarks/hn.webp",
+                                 "ambientAudio":  "audio/ambient/hn.mp3",
+                                 "voiceAudio":  "audio/voices/hn.mp3",
+                                 "carSprite":  "sprites/cars/hn.png"
+                             },
+                      "NI":  {
+                                 "code":  "NI",
+                                 "nameAr":  "نيكاراغوا",
+                                 "capitalAr":  "ماناغوا",
+                                 "currency":  "كوردوبا",
+                                 "photo":  "images/landmarks/ni.webp",
+                                 "ambientAudio":  "audio/ambient/ni.mp3",
+                                 "voiceAudio":  "audio/voices/ni.mp3",
+                                 "carSprite":  "sprites/cars/ni.png"
+                             },
+                      "CR":  {
+                                 "code":  "CR",
+                                 "nameAr":  "كوستاريكا",
+                                 "capitalAr":  "سان خوسيه",
+                                 "currency":  "كولون",
+                                 "photo":  "images/landmarks/cr.webp",
+                                 "ambientAudio":  "audio/ambient/cr.mp3",
+                                 "voiceAudio":  "audio/voices/cr.mp3",
+                                 "carSprite":  "sprites/cars/cr.png"
+                             },
+                      "PA":  {
+                                 "code":  "PA",
+                                 "nameAr":  "بنما",
+                                 "capitalAr":  "بنما",
+                                 "currency":  "بالبوا",
+                                 "photo":  "images/landmarks/pa.webp",
+                                 "ambientAudio":  "audio/ambient/pa.mp3",
+                                 "voiceAudio":  "audio/voices/pa.mp3",
+                                 "carSprite":  "sprites/cars/pa.png"
+                             },
+                      "CU":  {
+                                 "code":  "CU",
+                                 "nameAr":  "كوبا",
+                                 "capitalAr":  "هافانا",
+                                 "currency":  "بيزو كوبي",
+                                 "photo":  "images/landmarks/cu.webp",
+                                 "ambientAudio":  "audio/ambient/cu.mp3",
+                                 "voiceAudio":  "audio/voices/cu.mp3",
+                                 "carSprite":  "sprites/cars/cu.png"
+                             },
+                      "JM":  {
+                                 "code":  "JM",
+                                 "nameAr":  "جامايكا",
+                                 "capitalAr":  "كينغستون",
+                                 "currency":  "دولار جامايكي",
+                                 "photo":  "images/landmarks/jm.webp",
+                                 "ambientAudio":  "audio/ambient/jm.mp3",
+                                 "voiceAudio":  "audio/voices/jm.mp3",
+                                 "carSprite":  "sprites/cars/jm.png"
+                             },
+                      "HT":  {
+                                 "code":  "HT",
+                                 "nameAr":  "هايتي",
+                                 "capitalAr":  "بورت أو برنس",
+                                 "currency":  "غورد",
+                                 "photo":  "images/landmarks/ht.webp",
+                                 "ambientAudio":  "audio/ambient/ht.mp3",
+                                 "voiceAudio":  "audio/voices/ht.mp3",
+                                 "carSprite":  "sprites/cars/ht.png"
+                             },
+                      "DO":  {
+                                 "code":  "DO",
+                                 "nameAr":  "الدومينيكان",
+                                 "capitalAr":  "سانتو دومينغو",
+                                 "currency":  "بيزو دومينيكاني",
+                                 "photo":  "images/landmarks/do.webp",
+                                 "ambientAudio":  "audio/ambient/do.mp3",
+                                 "voiceAudio":  "audio/voices/do.mp3",
+                                 "carSprite":  "sprites/cars/do.png"
+                             },
+                      "PR":  {
+                                 "code":  "PR",
+                                 "nameAr":  "بورتوريكو",
+                                 "capitalAr":  "سان خوان",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/pr.webp",
+                                 "ambientAudio":  "audio/ambient/pr.mp3",
+                                 "voiceAudio":  "audio/voices/pr.mp3",
+                                 "carSprite":  "sprites/cars/pr.png"
+                             },
+                      "BS":  {
+                                 "code":  "BS",
+                                 "nameAr":  "باهاماس",
+                                 "capitalAr":  "ناساو",
+                                 "currency":  "دولار بهامي",
+                                 "photo":  "images/landmarks/bs.webp",
+                                 "ambientAudio":  "audio/ambient/bs.mp3",
+                                 "voiceAudio":  "audio/voices/bs.mp3",
+                                 "carSprite":  "sprites/cars/bs.png"
+                             },
+                      "BB":  {
+                                 "code":  "BB",
+                                 "nameAr":  "باربادوس",
+                                 "capitalAr":  "بريدج تاون",
+                                 "currency":  "دولار باربادوسي",
+                                 "photo":  "images/landmarks/bb.webp",
+                                 "ambientAudio":  "audio/ambient/bb.mp3",
+                                 "voiceAudio":  "audio/voices/bb.mp3",
+                                 "carSprite":  "sprites/cars/bb.png"
+                             },
+                      "TT":  {
+                                 "code":  "TT",
+                                 "nameAr":  "ترينيداد وتوباغو",
+                                 "capitalAr":  "بورت أوف سبين",
+                                 "currency":  "دولار ترينيدادي",
+                                 "photo":  "images/landmarks/tt.webp",
+                                 "ambientAudio":  "audio/ambient/tt.mp3",
+                                 "voiceAudio":  "audio/voices/tt.mp3",
+                                 "carSprite":  "sprites/cars/tt.png"
+                             },
+                      "GD":  {
+                                 "code":  "GD",
+                                 "nameAr":  "غرينادا",
+                                 "capitalAr":  "سانت جورجز",
+                                 "currency":  "دولار شرق الكاريبي",
+                                 "photo":  "images/landmarks/gd.webp",
+                                 "ambientAudio":  "audio/ambient/gd.mp3",
+                                 "voiceAudio":  "audio/voices/gd.mp3",
+                                 "carSprite":  "sprites/cars/gd.png"
+                             },
+                      "LC":  {
+                                 "code":  "LC",
+                                 "nameAr":  "سانت لوسيا",
+                                 "capitalAr":  "كاستريس",
+                                 "currency":  "دولار شرق الكاريبي",
+                                 "photo":  "images/landmarks/lc.webp",
+                                 "ambientAudio":  "audio/ambient/lc.mp3",
+                                 "voiceAudio":  "audio/voices/lc.mp3",
+                                 "carSprite":  "sprites/cars/lc.png"
+                             },
+                      "VC":  {
+                                 "code":  "VC",
+                                 "nameAr":  "سانت فينسنت",
+                                 "capitalAr":  "كينغستاون",
+                                 "currency":  "دولار شرق الكاريبي",
+                                 "photo":  "images/landmarks/vc.webp",
+                                 "ambientAudio":  "audio/ambient/vc.mp3",
+                                 "voiceAudio":  "audio/voices/vc.mp3",
+                                 "carSprite":  "sprites/cars/vc.png"
+                             },
+                      "AG":  {
+                                 "code":  "AG",
+                                 "nameAr":  "أنتيغوا وباربودا",
+                                 "capitalAr":  "سانت جونز",
+                                 "currency":  "دولار شرق الكاريبي",
+                                 "photo":  "images/landmarks/ag.webp",
+                                 "ambientAudio":  "audio/ambient/ag.mp3",
+                                 "voiceAudio":  "audio/voices/ag.mp3",
+                                 "carSprite":  "sprites/cars/ag.png"
+                             },
+                      "DM":  {
+                                 "code":  "DM",
+                                 "nameAr":  "دومينيكا",
+                                 "capitalAr":  "روسو",
+                                 "currency":  "دولار شرق الكاريبي",
+                                 "photo":  "images/landmarks/dm.webp",
+                                 "ambientAudio":  "audio/ambient/dm.mp3",
+                                 "voiceAudio":  "audio/voices/dm.mp3",
+                                 "carSprite":  "sprites/cars/dm.png"
+                             },
+                      "KN":  {
+                                 "code":  "KN",
+                                 "nameAr":  "سانت كيتس ونيفيس",
+                                 "capitalAr":  "باستير",
+                                 "currency":  "دولار شرق الكاريبي",
+                                 "photo":  "images/landmarks/kn.webp",
+                                 "ambientAudio":  "audio/ambient/kn.mp3",
+                                 "voiceAudio":  "audio/voices/kn.mp3",
+                                 "carSprite":  "sprites/cars/kn.png"
+                             },
+                      "CO":  {
+                                 "code":  "CO",
+                                 "nameAr":  "كولومبيا",
+                                 "capitalAr":  "بوغوتا",
+                                 "currency":  "بيزو كولومبي",
+                                 "photo":  "images/landmarks/co.webp",
+                                 "ambientAudio":  "audio/ambient/co.mp3",
+                                 "voiceAudio":  "audio/voices/co.mp3",
+                                 "carSprite":  "sprites/cars/co.png"
+                             },
+                      "VE":  {
+                                 "code":  "VE",
+                                 "nameAr":  "فنزويلا",
+                                 "capitalAr":  "كاراكاس",
+                                 "currency":  "بوليفار",
+                                 "photo":  "images/landmarks/ve.webp",
+                                 "ambientAudio":  "audio/ambient/ve.mp3",
+                                 "voiceAudio":  "audio/voices/ve.mp3",
+                                 "carSprite":  "sprites/cars/ve.png"
+                             },
+                      "GY":  {
+                                 "code":  "GY",
+                                 "nameAr":  "غيانا",
+                                 "capitalAr":  "جورج تاون",
+                                 "currency":  "دولار غياني",
+                                 "photo":  "images/landmarks/gy.webp",
+                                 "ambientAudio":  "audio/ambient/gy.mp3",
+                                 "voiceAudio":  "audio/voices/gy.mp3",
+                                 "carSprite":  "sprites/cars/gy.png"
+                             },
+                      "SR":  {
+                                 "code":  "SR",
+                                 "nameAr":  "سورينام",
+                                 "capitalAr":  "باراماريبو",
+                                 "currency":  "دولار سورينامي",
+                                 "photo":  "images/landmarks/sr.webp",
+                                 "ambientAudio":  "audio/ambient/sr.mp3",
+                                 "voiceAudio":  "audio/voices/sr.mp3",
+                                 "carSprite":  "sprites/cars/sr.png"
+                             },
+                      "EC":  {
+                                 "code":  "EC",
+                                 "nameAr":  "الإكوادور",
+                                 "capitalAr":  "كيتو",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/ec.webp",
+                                 "ambientAudio":  "audio/ambient/ec.mp3",
+                                 "voiceAudio":  "audio/voices/ec.mp3",
+                                 "carSprite":  "sprites/cars/ec.png"
+                             },
+                      "PE":  {
+                                 "code":  "PE",
+                                 "nameAr":  "بيرو",
+                                 "capitalAr":  "ليما",
+                                 "currency":  "سول بيروفي",
+                                 "photo":  "images/landmarks/pe.webp",
+                                 "ambientAudio":  "audio/ambient/pe.mp3",
+                                 "voiceAudio":  "audio/voices/pe.mp3",
+                                 "carSprite":  "sprites/cars/pe.png"
+                             },
+                      "BR":  {
+                                 "code":  "BR",
+                                 "nameAr":  "البرازيل",
+                                 "capitalAr":  "برازيليا",
+                                 "currency":  "ريال برازيلي",
+                                 "photo":  "images/landmarks/br.webp",
+                                 "ambientAudio":  "audio/ambient/br.mp3",
+                                 "voiceAudio":  "audio/voices/br.mp3",
+                                 "carSprite":  "sprites/cars/br.png"
+                             },
+                      "BO":  {
+                                 "code":  "BO",
+                                 "nameAr":  "بوليفيا",
+                                 "capitalAr":  "لاباز",
+                                 "currency":  "بوليفيانو",
+                                 "photo":  "images/landmarks/bo.webp",
+                                 "ambientAudio":  "audio/ambient/bo.mp3",
+                                 "voiceAudio":  "audio/voices/bo.mp3",
+                                 "carSprite":  "sprites/cars/bo.png"
+                             },
+                      "PY":  {
+                                 "code":  "PY",
+                                 "nameAr":  "باراغواي",
+                                 "capitalAr":  "أسونسيون",
+                                 "currency":  "غواراني",
+                                 "photo":  "images/landmarks/py.webp",
+                                 "ambientAudio":  "audio/ambient/py.mp3",
+                                 "voiceAudio":  "audio/voices/py.mp3",
+                                 "carSprite":  "sprites/cars/py.png"
+                             },
+                      "UY":  {
+                                 "code":  "UY",
+                                 "nameAr":  "أوروغواي",
+                                 "capitalAr":  "مونتيفيديو",
+                                 "currency":  "بيزو أوروغواياني",
+                                 "photo":  "images/landmarks/uy.webp",
+                                 "ambientAudio":  "audio/ambient/uy.mp3",
+                                 "voiceAudio":  "audio/voices/uy.mp3",
+                                 "carSprite":  "sprites/cars/uy.png"
+                             },
+                      "AR":  {
+                                 "code":  "AR",
+                                 "nameAr":  "الأرجنتين",
+                                 "capitalAr":  "بوينس آيرس",
+                                 "currency":  "بيزو أرجنتيني",
+                                 "photo":  "images/landmarks/ar.webp",
+                                 "ambientAudio":  "audio/ambient/ar.mp3",
+                                 "voiceAudio":  "audio/voices/ar.mp3",
+                                 "carSprite":  "sprites/cars/ar.png"
+                             },
+                      "CL":  {
+                                 "code":  "CL",
+                                 "nameAr":  "تشيلي",
+                                 "capitalAr":  "سانتياغو",
+                                 "currency":  "بيزو تشيلي",
+                                 "photo":  "images/landmarks/cl.webp",
+                                 "ambientAudio":  "audio/ambient/cl.mp3",
+                                 "voiceAudio":  "audio/voices/cl.mp3",
+                                 "carSprite":  "sprites/cars/cl.png"
+                             },
+                      "AU":  {
+                                 "code":  "AU",
+                                 "nameAr":  "أستراليا",
+                                 "capitalAr":  "كانبرا",
+                                 "currency":  "دولار أسترالي",
+                                 "photo":  "images/landmarks/au.webp",
+                                 "ambientAudio":  "audio/ambient/au.mp3",
+                                 "voiceAudio":  "audio/voices/au.mp3",
+                                 "carSprite":  "sprites/cars/au.png"
+                             },
+                      "NZ":  {
+                                 "code":  "NZ",
+                                 "nameAr":  "نيوزيلندا",
+                                 "capitalAr":  "ويلينغتون",
+                                 "currency":  "دولار نيوزيلندي",
+                                 "photo":  "images/landmarks/nz.webp",
+                                 "ambientAudio":  "audio/ambient/nz.mp3",
+                                 "voiceAudio":  "audio/voices/nz.mp3",
+                                 "carSprite":  "sprites/cars/nz.png"
+                             },
+                      "PG":  {
+                                 "code":  "PG",
+                                 "nameAr":  "بابوا غينيا الجديدة",
+                                 "capitalAr":  "بورت مورسبي",
+                                 "currency":  "كينا",
+                                 "photo":  "images/landmarks/pg.webp",
+                                 "ambientAudio":  "audio/ambient/pg.mp3",
+                                 "voiceAudio":  "audio/voices/pg.mp3",
+                                 "carSprite":  "sprites/cars/pg.png"
+                             },
+                      "FJ":  {
+                                 "code":  "FJ",
+                                 "nameAr":  "فيجي",
+                                 "capitalAr":  "سوفا",
+                                 "currency":  "دولار فيجي",
+                                 "photo":  "images/landmarks/fj.webp",
+                                 "ambientAudio":  "audio/ambient/fj.mp3",
+                                 "voiceAudio":  "audio/voices/fj.mp3",
+                                 "carSprite":  "sprites/cars/fj.png"
+                             },
+                      "SB":  {
+                                 "code":  "SB",
+                                 "nameAr":  "جزر سليمان",
+                                 "capitalAr":  "هونيارا",
+                                 "currency":  "دولار جزر سليمان",
+                                 "photo":  "images/landmarks/sb.webp",
+                                 "ambientAudio":  "audio/ambient/sb.mp3",
+                                 "voiceAudio":  "audio/voices/sb.mp3",
+                                 "carSprite":  "sprites/cars/sb.png"
+                             },
+                      "VU":  {
+                                 "code":  "VU",
+                                 "nameAr":  "فانواتو",
+                                 "capitalAr":  "بورت فيلا",
+                                 "currency":  "فاتو",
+                                 "photo":  "images/landmarks/vu.webp",
+                                 "ambientAudio":  "audio/ambient/vu.mp3",
+                                 "voiceAudio":  "audio/voices/vu.mp3",
+                                 "carSprite":  "sprites/cars/vu.png"
+                             },
+                      "WS":  {
+                                 "code":  "WS",
+                                 "nameAr":  "ساموا",
+                                 "capitalAr":  "أبيا",
+                                 "currency":  "تالا",
+                                 "photo":  "images/landmarks/ws.webp",
+                                 "ambientAudio":  "audio/ambient/ws.mp3",
+                                 "voiceAudio":  "audio/voices/ws.mp3",
+                                 "carSprite":  "sprites/cars/ws.png"
+                             },
+                      "TO":  {
+                                 "code":  "TO",
+                                 "nameAr":  "تونغا",
+                                 "capitalAr":  "نوكو ألوفا",
+                                 "currency":  "بانغا",
+                                 "photo":  "images/landmarks/to.webp",
+                                 "ambientAudio":  "audio/ambient/to.mp3",
+                                 "voiceAudio":  "audio/voices/to.mp3",
+                                 "carSprite":  "sprites/cars/to.png"
+                             },
+                      "KI":  {
+                                 "code":  "KI",
+                                 "nameAr":  "كيريباتي",
+                                 "capitalAr":  "تاراوا",
+                                 "currency":  "دولار أسترالي",
+                                 "photo":  "images/landmarks/ki.webp",
+                                 "ambientAudio":  "audio/ambient/ki.mp3",
+                                 "voiceAudio":  "audio/voices/ki.mp3",
+                                 "carSprite":  "sprites/cars/ki.png"
+                             },
+                      "FM":  {
+                                 "code":  "FM",
+                                 "nameAr":  "ميكرونيزيا",
+                                 "capitalAr":  "باليكير",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/fm.webp",
+                                 "ambientAudio":  "audio/ambient/fm.mp3",
+                                 "voiceAudio":  "audio/voices/fm.mp3",
+                                 "carSprite":  "sprites/cars/fm.png"
+                             },
+                      "MH":  {
+                                 "code":  "MH",
+                                 "nameAr":  "جزر مارشال",
+                                 "capitalAr":  "ماجورو",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/mh.webp",
+                                 "ambientAudio":  "audio/ambient/mh.mp3",
+                                 "voiceAudio":  "audio/voices/mh.mp3",
+                                 "carSprite":  "sprites/cars/mh.png"
+                             },
+                      "PW":  {
+                                 "code":  "PW",
+                                 "nameAr":  "بالاو",
+                                 "capitalAr":  "نغيرولمود",
+                                 "currency":  "دولار أمريكي",
+                                 "photo":  "images/landmarks/pw.webp",
+                                 "ambientAudio":  "audio/ambient/pw.mp3",
+                                 "voiceAudio":  "audio/voices/pw.mp3",
+                                 "carSprite":  "sprites/cars/pw.png"
+                             },
+                      "NR":  {
+                                 "code":  "NR",
+                                 "nameAr":  "ناورو",
+                                 "capitalAr":  "يارين",
+                                 "currency":  "دولار أسترالي",
+                                 "photo":  "images/landmarks/nr.webp",
+                                 "ambientAudio":  "audio/ambient/nr.mp3",
+                                 "voiceAudio":  "audio/voices/nr.mp3",
+                                 "carSprite":  "sprites/cars/nr.png"
+                             }
+                  }
+}
